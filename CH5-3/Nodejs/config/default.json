@@ -1,0 +1,4 @@
+{
+    "ENDPOINT": "https://{your_service_name}.cognitiveservices.azure.com/",
+    "TEXT_ANALYTICS_API_KEY": "{api_key}"
+}

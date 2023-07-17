@@ -1,0 +1,7 @@
+{
+    "ENDPOINT": "https://{service_name}.cognitiveservices.azure.com/",
+    "TEXT_ANALYTICS_API_KEY": "{sentiment_key}",
+    "OPENAI_ENDPOINT": "https://{aoai_service_name}.openai.azure.com/",
+    "OpenAI_API_KEY": "{aoai_key}",
+    "DeploymentName": "{aoai_deploy_name}"
+}

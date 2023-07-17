@@ -1,0 +1,7 @@
+{
+    "ENDPOINT": "https://{endpoint}.openai.azure.com/",
+    "OpenAI_API_KEY": "{aoai_key}",
+    "DeploymentName": "{aoai_deploy_name}",
+    "SPEECH_KEY": "{aoai_service_name}",
+    "SPEECH_REGION": "eastus"
+}
